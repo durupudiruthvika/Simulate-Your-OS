@@ -6,21 +6,18 @@ A web-based simulator designed to visualize and learn core **Operating System** 
 
 ## 📑 Table of Contents
 
-- [Overview](#-overview)
-- [Features](#-features)
-- [Technologies Used](#-technologies-used)
-- [Usage](#-usage)
-- [Project Workflow](#-project-workflow)
-- [Sample Outputs](#-sample-outputs)
-- [Evaluation Metrics](#-evaluation-metrics)
-- [Future Enhancements](#-future-enhancements)
-- [Team Members (Amrita School of Computing, Bengaluru)](#-team-members-amrita-school-of-computing-bengaluru)
-- [Mentor](#-mentor)
-- [Acknowledgment](#-acknowledgment)
+-  [📖 Overview](#-overview)  
+- [🚀 Features](#-features)  
+- [⚙️ Technologies Used](#technologies-used)  
+- [▶️ Usage](#usage)  
+- [🔁 Project Workflow](#-project-workflow)  
+- [🧪 Sample Outputs](#-sample-outputs)  
+- [📈 Evaluation Metrics](#-evaluation-metrics)  
+- [🔮 Future Enhancements](#-future-enhancements)  
+- [👨‍💻 Team Members (Amrita School of Computing, Bengaluru)](#-team-members-amrita-school-of-computing-bengaluru)  
+- [🎓 Mentor](#-mentor)  
+- [🙏 Acknowledgment](#-acknowledgment)
 
-
-
----
 
 ## 📖 Overview
 
@@ -45,12 +42,12 @@ It is aimed at helping students interactively understand how modern OS component
 
 ---
 
-## ⚙️ Technologies Used
+## Technologies Used
 
 - HTML, CSS, JavaScript
 ---
 
-## ▶️ Usage
+## Usage
 
 - Launch the simulator from `index.html`
 - Choose an OS concept from the menu
@@ -114,10 +111,12 @@ It is aimed at helping students interactively understand how modern OS component
 
 ## 🎓 Mentor
 
-**Divya K V**
-Assistant Professor (OC),
-Amrita School of Computing, Bengaluru  
-Amrita Vishwa Vidyapeetham, India
+ **Divya K V**  
+  *Assistant Professor (OC)*  
+  Department of Computer Science and Engineering  
+  Amrita School of Computing, Bengaluru  
+  Amrita Vishwa Vidyapeetham, India
+
 
 ---
 
