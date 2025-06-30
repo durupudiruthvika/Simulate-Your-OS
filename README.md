@@ -48,9 +48,6 @@ It is aimed at helping students interactively understand how modern OS component
 ## ⚙️ Technologies Used
 
 - HTML, CSS, JavaScript
-- D3.js / Chart.js (for visualizations)
-- GitHub Pages / Netlify (for deployment)
-
 ---
 
 ## ▶️ Usage
